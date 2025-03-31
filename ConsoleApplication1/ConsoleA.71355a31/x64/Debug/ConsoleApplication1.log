@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+D:\게임 코딩 공부\인재원\동고비\ConsoleApplication1\ConsoleApplication1.cpp(16,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EndScene.cpp
+  GameScene.cpp
+  Gamesystems.cpp
+  Player.cpp
+  Renderer.cpp
+  코드를 생성하고 있습니다...
+D:\게임 코딩 공부\인재원\동고비\ConsoleApplication1\Gamesystems.cpp(56,1): warning C4715: 'ScoreCheck': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  LINK : D:\게임 코딩 공부\인재원\동고비\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  ConsoleApplication1.vcxproj -> D:\게임 코딩 공부\인재원\동고비\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
